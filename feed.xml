@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>頚椎症で困ったけど手術してよかった</title>
-  <subtitle>頚椎症で困ったのでサイトを作ってみることにした</subtitle>
+  <title>頚椎症で困ってたけど手術してよかった</title>
+  <subtitle>頚椎症で困ってたのでサイトを作ってみることにした。まだ困ってる。</subtitle>
   <id>http://gommiegear.github.io</id>
   <link href="http://gommiegear.github.io"/>
   <link href="http://gommiegear.github.io/feed.xml" rel="self"/>
   <updated>2015-09-22T00:00:00Z</updated>
   <author>
-    <name>頚椎症で困った人</name>
+    <name>頚椎症で困ってた人</name>
   </author>
   <entry>
     <title>すずかけセントラル病院の土屋先生にメールをおくった</title>
