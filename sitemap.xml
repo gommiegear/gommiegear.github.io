@@ -26,7 +26,13 @@
   </url>
   <url>
     <loc>http://gommiegear.github.io/2015/09/22/send-mail.html</loc>
-    <lastmod>2015-09-22</lastmod>
+    <lastmod>2015-10-25</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://gommiegear.github.io/2015/10/25/surgical-operation-for-cervical-disease.html</loc>
+    <lastmod>2015-10-25</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -55,9 +61,45 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://gommiegear.github.io/tags/頚椎症.html</loc>
+    <lastmod>2015-09-22</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://gommiegear.github.io/tags/頚椎症性神経根症.html</loc>
+    <lastmod>2015-09-22</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://gommiegear.github.io/tags/完治.html</loc>
+    <lastmod>2015-09-22</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://gommiegear.github.io/tags/低侵襲.html</loc>
+    <lastmod>2015-09-22</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://gommiegear.github.io/2015.html</loc>
     <lastmod>2015-09-22</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://gommiegear.github.io/2015/10.html</loc>
+    <lastmod>2015-09-22</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://gommiegear.github.io/2015/10/25.html</loc>
+    <lastmod>2015-09-22</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
